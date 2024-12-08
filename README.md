@@ -1,5 +1,4 @@
 
-https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665# PhotoBooth
 2024-1 매체와 소프트웨어 개인 프로젝트 &lt;찰칵!>
 
 ### 기획 의도
