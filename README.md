@@ -6,4 +6,4 @@
 - 파이선 openCV와 YOLO 이용한 필터 사용
 
 ### Tools
-
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
