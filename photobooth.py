@@ -10,8 +10,8 @@ from tkinter import *
 
 SMTP_SERVER = 'smtp.naver.com'
 SMTP_PORT = 465
-EMAIL_ADDR = 's2jw_@naver.com'
-EMAIL_PASSWORD = 'godqhrgkwk!!'
+EMAIL_ADDR = 's2jw_@naver.com' # 실제 이메일
+EMAIL_PASSWORD = 'mypassword' # 실제 비밀번호 입력할 것
 
 class App:
     def __init__(self, window, window_title, video_source=0):
