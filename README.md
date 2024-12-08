@@ -1,4 +1,5 @@
-# PhotoBooth
+
+https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665# PhotoBooth
 2024-1 매체와 소프트웨어 개인 프로젝트 &lt;찰칵!>
 
 ### 기획 의도
@@ -7,3 +8,5 @@
 
 ### Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![AfterEffect](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
+![PremierePro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
